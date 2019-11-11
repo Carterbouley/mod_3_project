@@ -10,14 +10,22 @@ Through comparing to other presidents, if the results are significantly differen
 - The S&P 500 data is collected from yale economics department, using the Quandle API to access it.
 
 Hypthesis_1:
-    
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The S&amp;P just hit an ALL TIME HIGH. This is a big win for jobs, 401-K’s, and, frankly, EVERYONE! Our Country is doing great. Even killed long sought ISIS murderer, Al-Baghdadi. We are stronger than ever before, with GREAT upward potential. Enjoy!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/1188813055108374533?ref_src=twsrc%5Etfw">October 28, 2019</a></blockquote>
+
+
+ 
     h0 = Trump has no effect on the rate of growth of the s&p 500
     h1 = Trump is increasing the rate of growth of the s&p 500
     
 Hypothesis_2:
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Breaking News: Unemployment Rate, at 3.5%, drops to a 50 YEAR LOW. Wow America, lets impeach your President (even though he did nothing wrong!).</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/1180102056411095042?ref_src=twsrc%5Etfw">October 4, 2019</a></blockquote>
+
+
+
     h0 = Trump has no effect on the rate of unemployment in the usa
-    h1 = Trump is increasing the rate of growth of the s&p 500
+    h1 = Trump has reduced the rate of unemployment in the USA
 
 Hypothesis_3:
 
@@ -26,13 +34,15 @@ Hypothesis_3:
 
 
     h0 = Trump has no effect on the level of debt in the USA
-    h1 = Trump is increasing the rate of growth of the s&p 500
+    h1 = Trump had reduced the level of national debt in the USA
 
 Hypothesis_4:
 
-    h0 = Trump has no effect on the rate of growth of the s&p 500
-    h1 = Trump is increasing the rate of grrowth of the s&p 500
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The trade deficit rose to a 7yr high thanks to horrible trade policies Clinton supports. I will fix it fast- JOBS! <a href="https://t.co/jaGeN4u50U">https://t.co/jaGeN4u50U</a></p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/743486962670141440?ref_src=twsrc%5Etfw">June 16, 2016</a></blockquote>
 
+
+    h0 = Trump has no effect on the trade balance of the USA
+    h1 = Trump is reducing the trade balance of the USA
 
 
 
